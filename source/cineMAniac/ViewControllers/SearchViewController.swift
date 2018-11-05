@@ -17,9 +17,7 @@ class SearchViewController: UIViewController {
     
     var movie: PopMovies?
     var timer = Timer()
-    
-    
-    
+
     override func viewDidLoad() {
         super.viewDidLoad()
 
